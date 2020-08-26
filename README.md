@@ -1,5 +1,4 @@
-# study_portal
-
+# JOOBY
 ## Project setup
 ```
 npm install
